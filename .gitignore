@@ -1,2 +1,3 @@
 /build
-*.xcodeproj/**/!project.pbxproj
+*.xcodeproj/project.xcworkspace
+*.xcodeproj/xcuserdata
